@@ -45,4 +45,5 @@ getEmpleado(2, (err, empleado) => {
         console.log(salario);
     });
     1
+    456
 });
