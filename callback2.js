@@ -45,7 +45,8 @@ getEmpleado(2, (err, empleado) => {
         console.log(salario);
     });
 
+    12321
+    123124
+    4564
 
 });
-
-//probando github desktop
